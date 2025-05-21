@@ -1,19 +1,6 @@
 # Unity-Static-Map-Compressor
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-## License EN
 
-This project is licensed under custom terms — see [LICENSE.txt](LICENSE.txt) for details.
+## License
 
-## Lisans TR
-
-Bu proje, [LICENSE.txt](LICENSE.txt) dosyasında belirtilen şartlar altında lisanslanmıştır.
+This project is licensed under custom terms — see [LICENSE](LICENSE.txt) for details.
+Copyright (c) 2025 Hearref. All rights reserved.
